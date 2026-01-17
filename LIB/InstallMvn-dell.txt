@@ -1,0 +1,6 @@
+mvn install:install-file ^
+   -Dfile=C:\Users\ricar\OneDrive\Desktop\LIB\aspose-words-23.1.jar ^
+   -DgroupId=com.aspose.words ^
+   -DartifactId=aspose-words ^
+   -Dversion=23.1 ^
+   -Dpackaging=jar
